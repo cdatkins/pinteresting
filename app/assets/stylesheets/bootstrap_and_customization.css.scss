@@ -2,7 +2,7 @@ $body-bg:		white;
 $navbar-height: 45px;
 $navbar-default-bg:		#27ae60;
 $navbar-default-link-color: white;
-$brand-primary: white;
+$brand-primary: #27ae60;
 $jumbotron-bg: #bdc3c7;
 
 
@@ -21,4 +21,12 @@ $jumbotron-bg: #bdc3c7;
 .panel-body {
 	
 	background-color: #27ae60;
+}
+
+.actions {
+	background-color: white;
+}
+
+.actions a:active {
+	color: white;
 }
